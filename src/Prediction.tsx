@@ -1,7 +1,7 @@
 const Prediction = () => {
   return (
     <div className="prediction-content">
-      <h3>This is not yet ready :(</h3>
+      <h3>This is not ready yet :(</h3>
     </div>
   );
 };
